@@ -1,0 +1,23 @@
+{
+  "name": "js-download",
+  "version": "1.0.0",
+  "description": "Create downloads locally by JavaScript，like export files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiviwiv/js-download.git"
+  },
+  "keywords": [
+    "download",
+    "auto-download"
+  ],
+  "author": " <wivwiv bigpar@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wiviwiv/js-download/issues"
+  },
+  "homepage": "https://github.com/wiviwiv/js-download#readme"
+}
